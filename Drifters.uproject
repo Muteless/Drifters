@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "5.4",
+	"EngineAssociation": "5.5",
 	"Category": "",
 	"Description": "",
 	"Modules": [
@@ -19,11 +19,7 @@
 			]
 		},
 		{
-			"Name": "NetworkPrediction",
-			"Enabled": true
-		},
-		{
-			"Name": "NetworkPredictionInsights",
+			"Name": "Mover",
 			"Enabled": true
 		}
 	]
